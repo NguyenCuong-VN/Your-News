@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YourToday_ReactNative.iml" filepath="$PROJECT_DIR$/.idea/modules/YourToday_ReactNative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/YourToday_ReactNative.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/YourToday_ReactNative.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1381898316/YourToday_ReactNative.react-native-community_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1381898316/YourToday_ReactNative.react-native-community_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1341630283/YourToday_ReactNative.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1341630283/YourToday_ReactNative.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/612209492/YourToday_ReactNative.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/612209492/YourToday_ReactNative.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1282614610/YourToday_ReactNative.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1282614610/YourToday_ReactNative.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/588394811/YourToday_ReactNative.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/588394811/YourToday_ReactNative.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1455173869/YourToday_ReactNative.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1455173869/YourToday_ReactNative.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/472220702/YourToday_ReactNative.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/472220702/YourToday_ReactNative.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1152598980/YourToday_ReactNative.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1152598980/YourToday_ReactNative.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-414406719/android.YourToday_ReactNative.react-native-google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-414406719/android.YourToday_ReactNative.react-native-google-signin.iml" />
+    </modules>
+  </component>
+</project>

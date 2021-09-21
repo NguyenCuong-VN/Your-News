@@ -1,0 +1,9 @@
+com/yourtoday_reactnative/BuildConfig.java
+ com.yourtoday_reactnative.BuildConfig
+com/yourtoday_reactnative/MainApplication.java
+ com.yourtoday_reactnative.MainApplication
+ com.yourtoday_reactnative.MainApplication$1
+com/yourtoday_reactnative/MainActivity.java
+ com.yourtoday_reactnative.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

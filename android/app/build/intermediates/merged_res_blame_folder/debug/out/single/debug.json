@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/drawable-hdpi_splash.gif.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/drawable-hdpi/splash.gif"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/layout_launch_screen.xml.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

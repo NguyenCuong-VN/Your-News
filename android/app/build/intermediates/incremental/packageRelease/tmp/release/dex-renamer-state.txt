@@ -1,0 +1,4 @@
+#Tue Sep 21 10:35:41 ICT 2021
+base.0=/media/cuong/THU VIEN/Projects/Your Today/YourToday_ReactNative/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
